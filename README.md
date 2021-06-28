@@ -1,8 +1,6 @@
-  <div align=left>
-	
+<!-- <div align=left>
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsang5c)](https://hits.seeyoufarm.com) 
-	
-  </div>
+</div> -->
   
 ### Hi there 👋
 - 🌱 I’m currently learning **Golang, Java, Vue.js**
