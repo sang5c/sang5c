@@ -5,7 +5,7 @@
   </div>
   
 ### Hi there 👋
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang, Java, Vue.js**
 - 😄 It's fun to help others with programming!   
 - 개발이라는 도구를 사용하여 주변 사람들을 돕는 멋진 개발자를 꿈꿔요.
 <!--
@@ -16,7 +16,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
