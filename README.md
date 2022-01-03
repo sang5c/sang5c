@@ -3,7 +3,7 @@
 </div> -->
   
 ### Hi there 👋
-- 🌱 I’m currently learning **Java, Spring**
+- 🌱 I’m currently learning **Java, Spring, Clean Code**
 - 🕹 I'm interested in **Golang, Vue.js and Communication**
 - 😄 It's fun to help others with programming!   
 <!-- - 개발이라는 도구를 사용하여 주변 사람들을 돕는 멋진 개발자를 꿈꿔요. -->
